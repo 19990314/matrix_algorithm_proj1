@@ -1,0 +1,22 @@
+=================Matrix Multiplication Set #1=================
+Input Matrices:
+[2, 1]   | [6, 7]
+[1, 5]   | [4, 3]
+Product:
+[[16 17]
+ [26 22]]
+Numer of multiplications by Ordinary Matrix Multiplication: 8
+Numer of multiplications by Strassen's Algorithm: 7
+
+
+=================Matrix Multiplication Set #2=================
+Input Matrices:
+[1, 4]   | [-5, -4]
+[2, -2]  | [9, 2]
+Product:
+[[ 31   4]
+ [-28 -12]]
+Numer of multiplications by Ordinary Matrix Multiplication: 8
+Numer of multiplications by Strassen's Algorithm: 7
+
+

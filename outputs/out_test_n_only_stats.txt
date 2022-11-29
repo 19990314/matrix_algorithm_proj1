@@ -1,0 +1,35 @@
+=================Matrix Multiplication Set #1=================
+Numer of multiplications by Ordinary Matrix Multiplication: 8
+Numer of multiplications by Strassen's Algorithm: 7
+
+
+=================Matrix Multiplication Set #2=================
+Numer of multiplications by Ordinary Matrix Multiplication: 64
+Numer of multiplications by Strassen's Algorithm: 56
+
+
+=================Matrix Multiplication Set #3=================
+Numer of multiplications by Ordinary Matrix Multiplication: 512
+Numer of multiplications by Strassen's Algorithm: 399
+
+
+=================Matrix Multiplication Set #4=================
+Numer of multiplications by Ordinary Matrix Multiplication: 4096
+Numer of multiplications by Strassen's Algorithm: 2800
+
+
+=================Matrix Multiplication Set #5=================
+Numer of multiplications by Ordinary Matrix Multiplication: 32768
+Numer of multiplications by Strassen's Algorithm: 19607
+
+
+=================Matrix Multiplication Set #6=================
+Numer of multiplications by Ordinary Matrix Multiplication: 262144
+Numer of multiplications by Strassen's Algorithm: 137256
+
+
+=================Matrix Multiplication Set #7=================
+Numer of multiplications by Ordinary Matrix Multiplication: 2097152
+Numer of multiplications by Strassen's Algorithm: 960799
+
+
